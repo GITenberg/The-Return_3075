@@ -1,0 +1,39 @@
+_repo: The-Return_3075
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De la Mare, Walter
+    aliases:
+    - Ramal, Walter
+    - De la Mare, Walter John
+    - Mare, Walter de la
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '1108'
+    url: http://www.gutenberg.org/2009/agents/1108
+    wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
+description: '" ... A gripping and poignant novel of psychic possession. The story
+  begins when Arthur Lawford awakes from sleeping on the tomb of an eighteenth-century
+  pirate, Nicholas Sabathier, to find that his face has become entirely different.
+  Indeed, it bears an uncanny resemblance to a woodcut portrait of Sabathier in an
+  old French book. At first, Lawford feels exactly himself; but a little later he
+  senses "that other feebly struggling personality ... beginning to insinuate itself
+  into his consciousness." Is it possible for the spirit of a dead person, in its
+  implacable will to continue its existence, to seize upon the living?"--Back cover.'
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PR'
+- !lcsh 'Supernatural -- Fiction'
+- GITenberg
+title: The Return
+url: http://www.gutenberg.org/ebooks/3075
