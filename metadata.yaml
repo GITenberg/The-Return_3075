@@ -1,5 +1,8 @@
 _repo: The-Return_3075
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: De la Mare, Walter
@@ -20,6 +23,8 @@ description: '" ... A gripping and poignant novel of psychic possession. The sto
   senses "that other feebly struggling personality ... beginning to insinuate itself
   into his consciousness." Is it possible for the spirit of a dead person, in its
   implacable will to continue its existence, to seize upon the living?"--Back cover.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3075#The-Return
 gutenberg_issued: '2002-02-01'
 gutenberg_type: Text
 identifiers:
